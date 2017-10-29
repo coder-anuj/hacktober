@@ -1,3 +1,4 @@
 # hacktober
 
-This is out first change to propose
+
+This is out second change to propose
